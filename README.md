@@ -14,3 +14,9 @@
 这份优美的纪实文学，与君共赏
 
 - [煎蛋大文豪](https://github.com/hlonely98/jandanTreehole/blob/main/大文豪.md)
+
+git add .
+
+git commit
+
+git push
